@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "Tawab Live BOT",
   "bot-account": {
     "username": "TawabLiveBD",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "tawab_xyz.aternos.me",
